@@ -109,4 +109,70 @@ nav ul li{
     font-size: 35px;
     font-weight:bold;
     color: #181818;
+    margin: 25px 0px;
+}
+
+main{
+    max-width: 1140px;
+    margin:0 auto;
+
+}
+
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+
+}
+
+.item-description{
+    font-weight: 600;
+}
+
+.about-items{
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+    margin-top: 30px;
+
+
+}
+
+.text-center{
+    text-align: center;
+}
+
+/* skill section start from here */
+
+.skils{
+    justify-content: center;
+
+
+
+
+}
+
+.skills-container{
+    display: flex;
+    gap: 24px;
+
+    
+}
+
+.skill{
+    padding: 30px;
+    box-shadow:0px 6px 50px 0px rgba(0,0,0,0.06);
+    margin-top: 30px;
+    border-radius: 5px;
+
+
+}
+.skill-title{
+    margin: 20px 0px;
+}
+
+
+main section {
+    margin: 130px 0px;
 }
